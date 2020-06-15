@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">clipboardTest</string>
+    <string name="button">显示剪贴板内容</string>
+    <string name="startService">开启服务</string>
+    <string name="stopService">停止服务</string>
+    <string name="edit_text" />
+    <string name="sendText">发送</string>
+</resources>
